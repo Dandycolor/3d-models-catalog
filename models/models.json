@@ -15,7 +15,7 @@
       "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/flower.png",
       "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/organic.glb",
       "categories": ["organic"]
-    }
+    },
     {
       "id": "dog",
       "name": "Dog",
@@ -23,7 +23,7 @@
       "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/dog.png",
       "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/dog.glb",
       "categories": ["organic"]
-    }
+    },
     {
       "id": "girl",
       "name": "Girl",
