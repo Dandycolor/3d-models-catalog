@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "id": "duck",
+      "name": "Duck",
+      "author": "Khronos Group",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/duck.jpg",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/duck.glb",
+      "categories": ["animals"]
+    },
+    {
+      "id": "helmet",
+      "name": "Damaged Helmet",
+      "author": "theblueturtle_",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/helmet.jpg",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/helmet.glb",
+      "categories": ["objects"]
+    }
+  ]
+}
