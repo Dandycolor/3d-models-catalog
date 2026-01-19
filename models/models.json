@@ -1,20 +1,20 @@
 {
   "models": [
     {
-      "id": "duck",
-      "name": "Duck",
-      "author": "Khronos Group",
-      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/duck.jpg",
-      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/duck.glb",
-      "categories": ["animals"]
+      "id": "coral",
+      "name": "Coral Model",
+      "author": "3D Artist",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/coral.png",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/coral.glb",
+      "categories": ["nature"]
     },
     {
-      "id": "helmet",
-      "name": "Damaged Helmet",
-      "author": "theblueturtle_",
-      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/helmet.jpg",
-      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/helmet.glb",
-      "categories": ["objects"]
+      "id": "organic",
+      "name": "Organic Shape",
+      "author": "3D Designer",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/flower.png",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/organic.glb",
+      "categories": ["organic"]
     }
   ]
 }
