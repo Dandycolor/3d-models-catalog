@@ -16,5 +16,21 @@
       "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/organic.glb",
       "categories": ["organic"]
     }
+    {
+      "id": "dog",
+      "name": "Dog",
+      "author": "3D Designer",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/dog.png",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/dog.glb",
+      "categories": ["organic"]
+    }
+    {
+      "id": "girl",
+      "name": "Girl",
+      "author": "3D Designer",
+      "thumbnail": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/thumbnails/girl.png",
+      "glbUrl": "https://raw.githubusercontent.com/Dandycolor/3d-models-catalog/main/models/files/girl.glb",
+      "categories": ["organic"]
+    }
   ]
 }
